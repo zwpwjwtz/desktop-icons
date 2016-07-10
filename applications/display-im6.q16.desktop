@@ -1,9 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=ImageMagick (display Q16)
+Name[zh_CN]=ImageMagick（显示 Q16）
 Comment=Display and edit image files
 Comment[fr]=Affiche et édite des fichiers images
 Comment[pt]=Exiba e edite arquivos de imagem
+Comment[zh_CN]=显示和编辑图像文件
 Exec=/usr/lib/i386-linux-gnu/ImageMagick-6.8.9/bin-Q16/display %f
 Terminal=false
 Icon=display-im6.q16

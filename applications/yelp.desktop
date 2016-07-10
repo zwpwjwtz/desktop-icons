@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Help
+Name[zh_CN]=帮助
 Comment=Launch help browser
+Comment[zh_CN]=查看系统帮助
 Keywords=documentation;information;manual;
 Keywords[ar]=توثيق;معلومات;كتيب;
 Keywords[as]=তথ্যচিত্ৰ;তথ্য;হাতপুথি;

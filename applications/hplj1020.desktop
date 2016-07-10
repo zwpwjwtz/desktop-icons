@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Reactivate HP LaserJet 1018/1020 after reloading paper
+Name[zh_CN]=重启 HP LaserJect 1018/1020（在装纸后）
 Comment=Click the button in this program when your printer ran out of paper and you have refilled the paper
+Comment[zh_CN]=在为打印机装填纸张后，请点击此程序中的按钮来重启打印机
 # zExec=usb_printerid /dev/usb/lp0
 Exec=/usr/share/foo2zjs/hplj10xx_gui.tcl
 Terminal=false

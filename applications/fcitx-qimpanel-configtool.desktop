@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=fcitx-qimpanel-configtool
+Name[zh_CN]=Fcitx qimpanel 配置
 Comment=fcitx皮肤配置向导-UbuntuKylin
+Comment[zh_CN]=Fcitx 皮肤配置向导
 Exec=fcitx-qimpanel-configtool
 Icon=fcitx
 Type=Application

@@ -24,6 +24,7 @@ Categories=Office;
 Exec=libreoffice --draw %U
 MimeType=application/vnd.oasis.opendocument.graphics;application/vnd.oasis.opendocument.graphics-flat-xml;application/vnd.oasis.opendocument.graphics-template;application/vnd.sun.xml.draw;application/vnd.sun.xml.draw.template;application/vnd.visio;application/x-wpg;application/vnd.corel-draw;application/vnd.ms-publisher;image/x-freehand;application/clarisworks;application/x-pagemaker;
 Name=LibreOffice Draw
+Name[zh_CN]=LibreOffice 绘图
 GenericName=Drawing Program
 GenericName[bs]=Program za crtanje
 GenericName[fr]=Programme de dessin

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Cinnamon Menu Editor
+Name[zh_CN]=Cinnamon 菜单编辑器
 Comment=Edit the entries of the Cinnamon menu applet
+Comment[zh_CN]=编辑 Cinnamon 的菜单项
 Exec=cinnamon-menu-editor
 Icon=alacarte
 OnlyShowIn=X-Cinnamon;

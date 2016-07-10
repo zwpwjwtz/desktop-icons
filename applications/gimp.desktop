@@ -2,8 +2,11 @@
 Version=1.0
 Type=Application
 Name=GIMP Image Editor
+Name[zh_CN]=GIMP 图像编辑器
 GenericName=Image Editor
+GenericName[zh_CN]=图像编辑器
 Comment=Create images and edit photographs
+Comment[zh_CN]=创建和编辑图像
 Exec=gimp-2.8 %U
 TryExec=gimp-2.8
 Icon=gimp

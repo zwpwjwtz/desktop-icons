@@ -2,7 +2,9 @@
 Encoding=UTF-8
 Version=1.0
 Name=Account authentication
+Name[zh_CN]=账户认证
 Comment=Login to online accounts
+Comment[zh_CN]=登录至在线账户
 Exec=/usr/bin/signon-ui
 Icon=
 Type=Application

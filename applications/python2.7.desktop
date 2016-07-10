@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Python (v2.7)
+Name[zh_CN]=Python 2.7
 Comment=Python Interpreter (v2.7)
+Comment[zh_CN]=启动 Python 解释器（v2.7）
 Exec=/usr/bin/python2.7
 Icon=/usr/share/pixmaps/python2.7.xpm
 Terminal=true

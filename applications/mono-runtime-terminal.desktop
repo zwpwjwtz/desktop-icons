@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Mono Runtime (Terminal)
+Name[zh_CN]=用 Mono 运行 .NET 应用（在命令行中）
 Exec=mono
 Terminal=true
 Type=Application

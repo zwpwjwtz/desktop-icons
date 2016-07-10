@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Videos
+Name[zh_CN]=视频播放器
 Comment=Play movies
+Comment[zh_CN]=播放视频文件
 Keywords=Video;Movie;Film;Clip;Series;Player;DVD;TV;Disc;
 Keywords[ar]=فلم;فيلم;أفلام;فديوم;كليب;اسطوانة
 Keywords[as]=ভিডিঅ';চলচিত্ৰ;চলচিত্ৰ;ক্লিপ;ক্ৰম;প্লেয়াৰ;DVD;TV;ডিস্ক;

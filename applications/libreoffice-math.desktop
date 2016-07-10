@@ -25,6 +25,7 @@ Categories=Office;Spreadsheet;
 Exec=libreoffice --math %U
 MimeType=application/vnd.oasis.opendocument.formula;application/vnd.sun.xml.math;application/vnd.oasis.opendocument.formula-template;text/mathml;application/mathml+xml;
 Name=LibreOffice Math
+Name[zh_CN]=LibreOffice 公式
 GenericName=Formula Editor
 GenericName[ml]=ഫോര്‍മുലാ എഡിറ്റര്‍
 GenericName[tn]=Formula Editor

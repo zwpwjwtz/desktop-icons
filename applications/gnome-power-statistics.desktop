@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Power Statistics
+Name[zh_CN]=电源统计
 Comment=Observe power management
+Comment[zh_CN]=查看和管理电源
 Keywords=battery;consumption;charge;
 Icon=gnome-power-statistics
 Exec=gnome-power-statistics

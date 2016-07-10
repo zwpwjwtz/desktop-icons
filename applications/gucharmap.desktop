@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Character Map
+Name[zh_CN]=字符映射
 Comment=Insert special characters into documents
+Comment[zh_CN]=插入特殊字符至文档
 Keywords=font;unicode;
 Exec=gucharmap
 Icon=accessories-character-map

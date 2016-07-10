@@ -10,5 +10,7 @@ X-Cinnamon-Settings-Panel=network
 # Translators: those are keywords for the network control-center panel
 Keywords=Network;Wireless;IP;LAN;Proxy;
 Name=Network
+Name[zh_CN]=网络
 Comment=Network settings
+Comment[zh_CN]=网络设置
 X-Ubuntu-Gettext-Domain=cinnamon-control-center

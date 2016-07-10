@@ -1,8 +1,11 @@
 [Desktop Entry]
 Name=Screen Reader
+Name[zh_CN]=屏幕阅读器
 GenericName=Screen Reader
+GenericName[zh_CN]=屏幕阅读器
 X-GNOME-FullName=Orca Screen Reader
 Comment=Provide access to graphical desktop environments via synthesized speech and/or refreshable braille
+Comment[zh_CN]=通过同步语音和可刷新盲文方便残疾人士使用图形化环境
 Keywords=screen reader;speech;braille;
 Exec=orca --replace
 Icon=orca

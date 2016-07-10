@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Cinnamon Control Center
+Name[zh_CN]=Cinnamon 控制面板
 Icon=preferences-system
 Exec=cinnamon-control-center --overview
 Terminal=false

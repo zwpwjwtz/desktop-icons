@@ -10,5 +10,7 @@ X-Cinnamon-Settings-Panel=display
 # Translators: those are keywords for the display control-center panel
 Keywords=Panel;Projector;xrandr;Screen;Resolution;Refresh;
 Name=Display
+Name[zh_CN]=显示
 Comment=Change resolution and position of monitors and projectors
+Comment[zh_CN]=改变显示器/投影仪的分辨率和位置
 X-Ubuntu-Gettext-Domain=cinnamon-control-center

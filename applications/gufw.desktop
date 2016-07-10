@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Firewall Configuration
+Name[zh_CN]=防火墙配置
 Comment=An easy way to configure your firewall
+Comment[zh_CN]=用于配置防火墙的简易工具
 Categories=GNOME;GTK;Settings;Security;X-GNOME-Settings-Panel;X-GNOME-SystemSettings;X-Unity-Settings-Panel;X-XFCE-SettingsDialog;X-XFCE-SystemSettings;
 Exec=gufw
 Icon=gufw

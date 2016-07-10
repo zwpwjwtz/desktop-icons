@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Cinnamon Killer Daemon
+Name[zh_CN]=Cinnamon 服务守护进程
 Comment=Restarts Cinnamon, Nemo and cinnamon-settings-daemon when a key combination is pressed
+Comment[zh_CN]=当按下特定快捷键时，重启 Cinnamon、Nemo 和 cinnamon-settings-daemon
 Icon=reload
 Exec=cinnamon-killer-daemon
 Terminal=false

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Archive Manager
+Name[zh_CN]=归档管理器
 Comment=Create and modify an archive
+Comment[zh_CN]=创建和修改归档（压缩）文件
 Keywords=zip;tar;extract;unpack;
 TryExec=file-roller
 Exec=file-roller %U

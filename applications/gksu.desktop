@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Root Terminal
+Name[zh_CN]=以 Root 身份执行命令
 Comment=Opens a terminal as the root user, using gksu to ask for the password
+Comment[zh_CN]=使用 gksu 获取密码以提升权限，然后打开终端
 Exec=gksu /usr/bin/x-terminal-emulator
 Icon=gksu-root-terminal
 StartupNotify=true

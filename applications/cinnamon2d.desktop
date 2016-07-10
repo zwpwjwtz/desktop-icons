@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Cinnamon 2D
+Name[zh_CN]=Cinnamon 2D
 Comment=Window management and application launching
+Comment[zh_CN]=窗口管理和应用程序起动器
 Exec=/usr/bin/cinnamon2d
 Categories=GNOME;GTK;System;Core;
 OnlyShowIn=X-Cinnamon;

@@ -10,5 +10,7 @@ OnlyShowIn=X-Cinnamon;
 # Translators: those are keywords for the wacom tablet control-center panel
 Keywords=Tablet;Wacom;Stylus;Eraser;Mouse;
 Name=Graphics Tablet
+Name[zh_CN]=手写板
 Comment=Set button mappings and adjust stylus sensitivity for graphics tablets
+Comment[zh_CN]=设置手写板的按钮映射、调整触控灵敏度
 X-Ubuntu-Gettext-Domain=cinnamon-control-center

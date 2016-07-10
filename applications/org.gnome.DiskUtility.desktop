@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Disks
+Name[zh_CN]=磁盘管理
 Comment=Manage Drives and Media
+Comment[zh_CN]=管理驱动器和媒体
 Keywords=disk;drive;volume;harddisk;hdd;disc;cdrom;dvd;partition;iso;image;backup;restore;benchmark;raid;luks;encryption;S.M.A.R.T.;smart;
 Exec=gnome-disks
 Icon=gnome-disks

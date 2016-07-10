@@ -1,8 +1,10 @@
 [Desktop Entry]
 Name=IcedTea Java Web Start
 Name[fi]=IcedTea Java - Web Start
+Name[zh_CN]=启动 IcedTea Java 网络浏览
 Comment=IcedTea Java Web Start
 Comment[fi]=IcedTea Java - Web Start
+Comment[zh_CN]=使用 IcedTea Java 组件来浏览互联网
 Exec=/usr/bin/javaws %u
 Terminal=false
 Type=Application

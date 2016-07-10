@@ -1,8 +1,10 @@
 [Desktop Entry]
 Name=OpenJDK Java 8 Runtime
 Name[fi]=OpenJDK Java 8 - ajonaikainen ympäristö
+Name[zh_CN]=OpenJDK Java 8 运行时
 Comment=OpenJDK Java 8 Runtime
 Comment[fi]=OpenJDK Java 8 - ajonaikainen ympäristö
+Comment[zh_CN]=为 Java 应用启动 OpenJDK Java 8 运行时
 Keywords=java;runtime
 Exec=cautious-launcher %f /usr/bin/java -jar
 Terminal=false

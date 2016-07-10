@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Keyboard Layout
+Name[zh_CN]=键盘布局
 Comment=Preview keyboard layouts
+Comment[zh_CN]=查看键盘布局
 Icon=preferences-desktop-keyboard
 Exec=gkbd-keyboard-display
 Terminal=false

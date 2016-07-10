@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Metacity
+Name[zh_CN]=Metacity 窗口管理器
 Exec=metacity
 Icon=preferences-system-windows
 NoDisplay=true

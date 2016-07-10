@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Cinnamon
+Name[zh_CN]=Cinnamon
 Comment=Window management and application launching
+Comment[zh_CN]=窗口管理和应用程序起动器
 Exec=/usr/bin/cinnamon-launcher
 X-GNOME-Bugzilla-Bugzilla=GNOME
 X-GNOME-Bugzilla-Product=cinnamon

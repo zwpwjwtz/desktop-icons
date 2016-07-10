@@ -1,11 +1,11 @@
-
 [Desktop Entry]
 Categories=Network;InstantMessaging;
 Name=QQ
+Name[en]=QQ
+Name[en_US]=QQ
+Name[zh_CN]=腾讯 QQ
 Icon=/opt/longene/qq/qq.png
 Exec=/opt/longene/qq/qq.sh
 StartupNotify=true
 Terminal=false
 Type=Application
-Name[en]=QQ
-Name[en_US]=QQ

@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Panel
+Name[zh_CN]=面板
 Comment=Launch other applications and provide various utilities to manage windows, show the time, etc.
+Comment[zh_CN]=启动其他程序，并提供用于管理窗口、显示时间等操作的工具
 Icon=gnome-panel
 Exec=gnome-panel
 Terminal=false

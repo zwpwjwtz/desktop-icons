@@ -24,6 +24,7 @@ Categories=Office;Database;X-Red-Hat-Base;X-MandrivaLinux-MoreApplications-Datab
 Exec=libreoffice --base %U
 MimeType=application/vnd.oasis.opendocument.database;application/vnd.sun.xml.base;
 Name=LibreOffice Base
+Name[zh_CN]=LibreOffice 数据库
 GenericName=Database Development
 GenericName[dz]=Database Development
 GenericName[bn]=ডাটাবেস ডেভেলপমেন্ট

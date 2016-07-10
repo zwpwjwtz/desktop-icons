@@ -1,7 +1,9 @@
 [Desktop Entry]
 Name=Vim
+Name[zh_CN]=Vim 编辑器
 GenericName=Text Editor
 GenericName[de]=Texteditor
+GenericName[zh_CN]=命令行文字编辑器
 Comment=Edit text files
 Comment[af]=Redigeer tekslêers
 Comment[am]=የጽሑፍ ፋይሎች ያስተካክሉ

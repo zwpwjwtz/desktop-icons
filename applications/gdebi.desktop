@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=GDebi Package Installer
+Name[zh_CN]=GDebi 软件包安装器
 GenericName=Package Installer
+GenericName[zh_CN]=软件包安装器
 Comment=Install and view software packages
+Comment[zh_CN]=安装并查看软件
 Exec=gdebi-gtk %f
 Icon=gnome-mime-application-x-deb
 Terminal=false

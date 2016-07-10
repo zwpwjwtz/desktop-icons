@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Screenshot
+Name[zh_CN]=截屏
 Comment=Save images of your screen or individual windows
+Comment[zh_CN]=将屏幕或窗口内容保存为图像
 Keywords=snapshot;capture;print;screenshot;
 Keywords[an]=pantallazo;capturar;imprentar;captura de pantalla;
 Keywords[ar]=لقطة;صورة;طباعة;

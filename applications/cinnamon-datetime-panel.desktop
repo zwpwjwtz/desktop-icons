@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Date & Time
+Name[zh_CN]=日期和时间
 Comment=Date and Time preferences panel
+Comment[zh_CN]=设置系统日期和时间
 Exec=cinnamon-control-center datetime
 Icon=cs-date-time
 Terminal=false

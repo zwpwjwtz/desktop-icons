@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Disk Image Writer
+Name[zh_CN]=磁盘镜像写入器
 Comment=Write Disk Images to Devices
+Comment[zh_CN]=将镜像文件写入到设备
 Exec=gnome-disks --restore-disk-image %U
 Icon=drive-removable-media
 MimeType=application/x-cd-image;application/x-raw-disk-image;application/x-raw-disk-image-xz-compressed;

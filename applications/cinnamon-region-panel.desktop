@@ -11,5 +11,7 @@ X-Cinnamon-Settings-Panel=region
 Keywords=Language;Layout;Keyboard;
 NoDisplay=true
 Name=Region & Language
+Name[zh_CN]=区域和语言
 Comment=Change your region and language settings
+Comment[zh_CN]=改变您的区域和语言设置
 X-Ubuntu-Gettext-Domain=cinnamon-control-center

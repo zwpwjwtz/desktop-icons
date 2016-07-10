@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Network Connections
+Name[zh_CN]=网络链接
 Comment=Manage and change your network connection settings
+Comment[zh_CN]=管理和更改网络链接设置
 Icon=preferences-system-network
 Exec=nm-connection-editor
 Terminal=false

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=IcedTea Web Control Panel
+Name[zh_CN]=IcedTea 网络控制面板
 Comment=Configure IcedTea Web (javaws and plugin)
+Comment[zh_CN]=配置 IcedTea 网络浏览（javaws 和插件）
 Exec=/usr/bin/itweb-settings
 Icon=javaws
 Terminal=false

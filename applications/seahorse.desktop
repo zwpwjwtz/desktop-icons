@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Passwords and Keys
+Name[zh_CN]=密码和密钥
 Comment=Manage your passwords and encryption keys
+Comment[zh_CN]=管理密码和加密密钥
 Keywords=keyring;encryption;security;sign;ssh;
 Exec=/usr/bin/seahorse
 Terminal=false

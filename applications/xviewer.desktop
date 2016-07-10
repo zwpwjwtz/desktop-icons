@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Image Viewer
+Name[zh_CN]=图片查看器
 Comment=Browse and rotate images
+Comment[zh_CN]=浏览和旋转图片
 TryExec=xviewer
 Exec=xviewer %U
 Icon=xviewer

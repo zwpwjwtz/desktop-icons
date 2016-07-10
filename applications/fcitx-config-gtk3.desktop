@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Fcitx Config Tool
+Name[zh_CN]=Fcitx 输入法配置
 Comment=Fcitx GUI Config Tool
+Comment[zh_CN]=用图形化工具配置 Fcitx 输入法
 Exec=fcitx-config-gtk3
 Icon=fcitx
 Type=Application

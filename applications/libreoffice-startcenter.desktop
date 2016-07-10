@@ -25,6 +25,7 @@ Categories=Office;X-Red-Hat-Base;X-SuSE-Core-Office;X-MandrivaLinux-Office-Other
 Exec=libreoffice %U
 MimeType=application/vnd.openofficeorg.extension;x-scheme-handler/vnd.libreoffice.cmis;
 Name=LibreOffice
+Name=开始使用 LibreOffice
 GenericName=Office
 GenericName[xh]=Iofisi
 GenericName[sr]=Канцеларија

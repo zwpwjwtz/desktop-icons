@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=System Log
+Name[zh_CN]=系统日志
 Comment=View or monitor system log files
+Comment[zh_CN]=查看或监视系统日志文件
 Keywords=logs;debug;error;
 Exec=gnome-system-log-pkexec
 Icon=logview

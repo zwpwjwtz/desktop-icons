@@ -2,9 +2,11 @@
 Name=OpenJDK Java 8 Policy Tool
 Name[fi]=OpenJDK Java 8 - käytäntötyökalu
 Name[fr]=OpenJDK Java 8 - Outil de réglage
+Name[zh_CN]=Open Java 8 策略工具
 Comment=OpenJDK Java 8 Policy Tool
 Comment[fi]=OpenJDK Java 8 - käytäntötyökalu
 Comment[fr]=OpenJDK Java 8 - Outil de réglage
+Comment[zh_CN]=管理 OpenJDK Java 8 策略
 Keywords=java;security;policytool
 Exec=/usr/bin/policytool
 Terminal=false

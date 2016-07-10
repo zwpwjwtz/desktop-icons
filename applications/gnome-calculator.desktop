@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Calculator
+Name[zh_CN]=计算器
 Comment=Perform arithmetic, scientific or financial calculations
+Comment[zh_CN]=进行普通、科学或财务计算
 Keywords=calculation;arithmetic;scientific;financial;
 Exec=gnome-calculator
 Icon=accessories-calculator

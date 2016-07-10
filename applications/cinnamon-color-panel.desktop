@@ -10,5 +10,7 @@ X-Cinnamon-Settings-Panel=color
 # Translators: those are keywords for the color control-center panel
 Keywords=Color;ICC;Profile;Calibrate;Printer;Display;
 Name=Color
+Name[zh_CN]=色彩
 Comment=Color management settings
+Comment[zh_CN]=管理色彩配置
 X-Ubuntu-Gettext-Domain=cinnamon-control-center

@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Screensaver
+Name[zh_CN]=屏幕保护程序
 Comment=Launch screensaver and locker program
+Comment[zh_CN]=启动屏保和锁屏程序
 Icon=preferences-desktop-screensaver
 Exec=cinnamon-screensaver
 OnlyShowIn=X-Cinnamon;

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Terminal
+Name[zh_CN]=终端
 Comment=Use the command line
+Comment[zh_CN]=在命令行中执行命令
 Keywords=shell;prompt;command;commandline;cmd;
 Keywords[ar]=طرفية;صدفة;سطر;أوامر;أمر;
 Keywords[cs]=shell;prompt;výzva;příkaz;příkazový řádek;příkazová řádka;

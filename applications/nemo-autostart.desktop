@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Nemo
+Name[zh_CN]=Nemo 文件管理
 Comment=Start Nemo desktop at log in
+Comment[zh_CN]=登录后启动 Nemo 作为桌面文件管理器
 Exec=nemo -n
 OnlyShowIn=X-Cinnamon;
 AutostartCondition=GSettings org.nemo.desktop show-desktop-icons

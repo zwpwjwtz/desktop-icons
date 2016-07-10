@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Disk Image Mounter
+Name[zh_CN]=磁盘镜像挂载器
 Comment=Mount Disk Images
+Comment[zh_CN]=挂载镜像文件
 Exec=gnome-disk-image-mounter %U
 Icon=drive-removable-media
 MimeType=application/x-cd-image;application/x-raw-disk-image;

@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=Pidgin Internet Messenger
+Name[zh_CN]=Pidgin 互联网通讯工具
 GenericName=Internet Messenger
+GenericName[zh_CN]=互联网通讯工具
 Comment=Chat over IM.  Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more
+Comment[zh_CN]=使用 AIM、Google Talk、Jabber/XMPP、MSN、Yahoo 等协议聊天
 Exec=pidgin
 Icon=pidgin
 StartupNotify=true

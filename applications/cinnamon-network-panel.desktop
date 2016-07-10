@@ -1,0 +1,14 @@
+[Desktop Entry]
+Exec=cinnamon-settings network
+Icon=cs-network
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Settings;HardwareSettings;X-Cinnamon-Settings-Panel;
+OnlyShowIn=X-Cinnamon;
+X-Cinnamon-Settings-Panel=network
+# Translators: those are keywords for the network control-center panel
+Keywords=Network;Wireless;IP;LAN;Proxy;
+Name=Network
+Comment=Network settings
+X-Ubuntu-Gettext-Domain=cinnamon-control-center

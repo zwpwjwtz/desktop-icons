@@ -1,0 +1,19 @@
+# Chinese (Simplified) Translation for Desktop Icons
+ 
+This is a set of .desktop files which usually serve as the launcher icons of Linux desktop.
+ 
+Due to some reasons, many entries were left with uncompleted localization. This can greatly harm the enthusiasm of newbies.
+ 
+So I decided to patch these icon files and add translation (mainly zh_CN) where it is necessary. Currently, following fields have been translated:
+ 
+ * Name
+ 
+ * GenericName
+ 
+ * Comment
+ 
+All these fields were translated directly from their orginally source text. If you think somewhere is improper or incorrect, feel free to report a bug.
+ 
+## Licensing
+
+You can freely use the resource from this repository (under GNU Licence). 

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Serial port terminal
+Name[fr]=Terminal pour port série
+Name[it]=Terminale per porta seriale
+Comment=Communicate with the serial port
+Comment[fr]=Communique avec le port série
+Comment[it]=Comunica con la porta seriale
+Exec=gtkterm
+Icon=gtkterm.xpm
+Terminal=false
+Type=Application
+Categories=GTK;Utility;

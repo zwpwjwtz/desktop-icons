@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=Web
+GenericName=Web Browser
+X-GNOME-FullName=Epiphany Web Browser
+Comment=Browse the web
+Keywords=web;browser;internet;
+Exec=epiphany %U
+StartupNotify=true
+Terminal=false
+Type=Application
+Icon=web-browser
+Categories=Network;GNOME;GTK;WebBrowser;
+MimeType=text/html;text/xml;application/xhtml+xml;x-scheme-handler/http;x-scheme-handler/https;multipart/related;application/x-mimearchive;message/rfc822;
+Actions=Incognito;
+X-Ubuntu-Gettext-Domain=epiphany
+
+[Desktop Action Incognito]
+Name=New Incognito Window
+Exec=epiphany --incognito-mode

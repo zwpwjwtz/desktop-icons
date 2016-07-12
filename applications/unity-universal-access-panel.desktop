@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Universal Access
+Name[zh_CN]=统一访问
 Comment=Universal Access Preferences
+Comment[zh_CN]=统一访问设置
 Exec=unity-control-center universal-access
 Icon=preferences-desktop-accessibility
 Terminal=false

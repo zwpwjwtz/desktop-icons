@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Details
+Name[zh_CN]=系统信息
 Comment=System Information
+COmment[zh_CN]=系统信息
 Exec=unity-control-center info
 Icon=applications-system
 Terminal=false

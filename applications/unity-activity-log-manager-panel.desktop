@@ -3,7 +3,9 @@ Version=1.0
 X-Ubuntu-Gettext-Domain=activity-log-manager
 
 Name=Security & Privacy
+Name[zh_CN]=安全和隐私
 Comment=Privacy and Activity Manager
+Comment[zh_CN]=管理隐私的活动
 
 Icon=activity-log-manager
 TryExec=unity-control-center

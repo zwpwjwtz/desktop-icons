@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Contacts
+Name[zh_CN]=联系人
 Comment=A contacts manager for GNOME
+Comment[zh_CN]=GNOME 的联系人管理工具
 Keywords=friends;address book;
 Icon=x-office-address-book
 Exec=gnome-contacts

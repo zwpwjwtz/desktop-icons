@@ -1,9 +1,12 @@
 [Desktop Entry]
 Version=1.0
 Name=Remmina
+Name[zh_CN]=Remmina 远程桌面
 GenericName=Remote Desktop Client
+GenericName[zh_CN]=远程桌面客户端
 X-GNOME-FullName=Remmina Remote Desktop Client
 Comment=Connect to remote desktops
+Comment[zh_CN]=链接到远程桌面
 TryExec=remmina
 Exec=remmina
 Icon=remmina

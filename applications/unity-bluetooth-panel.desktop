@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Bluetooth
+Name[zh_CN]=蓝牙
 Comment=Configure Bluetooth settings
+Comment[zh_CN]=配置蓝牙
 Icon=bluetooth
 Exec=unity-control-center bluetooth
 Terminal=false

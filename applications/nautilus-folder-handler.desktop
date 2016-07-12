@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Files
+Name[zh_CN]=文件
 Comment=Access and organize files
+Comment[zh_CN]=访问和管理文件
 Exec=nautilus --new-window %U
 Icon=system-file-manager
 Terminal=false

@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=Simple Scan
+Name[zh_CN]=扫描易
 GenericName=Document Scanner
+GenericName[zh_CN]=文档扫描程序
 Comment=Scan Documents
+Comment[zh_CN]=扫描文档
 Keywords=scan;scanner;flatbed;adf;
 Exec=simple-scan
 Icon=scanner

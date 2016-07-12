@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=User Accounts
+Name[zh_CN]=用户账户
 Comment=Add or remove users
+Comment[zh_CN]=添加或删除用户
 Exec=unity-control-center user-accounts
 Icon=system-users
 Terminal=false

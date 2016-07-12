@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=SMS
+Name[zh_CN]=短信
 Exec=telephony-service-indicator
 Icon=telephony-service-message
 NoDisplay=true

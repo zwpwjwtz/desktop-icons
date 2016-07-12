@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Run Software
+Name[zh_CN]=运行软件
 TryExec=nautilus-autorun-software
 Exec=nautilus-autorun-software %u
 Icon=application-x-executable

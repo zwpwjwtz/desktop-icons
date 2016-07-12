@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=History Service Daemon
+Name[zh_CN]=历史服务守护进程
 Comment=Listens for calls and messages and stores them.
+Comment[zh_CN]=监听调用和消息，并将其存储至日志。
 Icon=history-daemon
 Exec=history-daemon
 Terminal=false

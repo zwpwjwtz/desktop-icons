@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Winetricks
+Name[zh_CN]=Winetricks
 Comment=Install applications on Wine
+Comment[zh_CN]=在 Wine 上安装附加应用
 Exec=winetricks
 Terminal=false
 Icon=winetricks

@@ -3,7 +3,9 @@ Version=1.0
 X-Ubuntu-Gettext-Domain=deja-dup
 
 Name=Backups
+Name[zh_CN]=备份
 Comment=Change your backup settings
+Comment[zh_CN]=修改备份设置
 
 Icon=deja-dup
 TryExec=unity-control-center

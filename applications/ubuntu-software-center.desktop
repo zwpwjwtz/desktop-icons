@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=Ubuntu Software Center
+Name[zh_CN]=Ubuntu 软件中心
 GenericName=Software Center
+GenericName[zh_CN]=软件中心
 Comment=Lets you choose from thousands of applications available for Ubuntu
+Comment[zh_CN]=在 Ubuntu 中安装各类应用程序
 Exec=/usr/bin/software-center %u
 Icon=softwarecenter
 Terminal=false

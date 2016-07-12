@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=GHex
+Name[zh_CN]=GHex
 GenericName=Hex Editor
+GenericName[zh_CN]=十六进制编辑器
 Comment=Inspect and edit binary files
+Comment[zh_CN]=查看和编辑二进制文件
 #TRANSLATORS: here, 'binary' means a binary file (not the base-2 numeric system)
 Keywords=binary;debug;
 Exec=ghex %F

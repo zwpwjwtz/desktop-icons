@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Desktop Icons
+Name[zh_CN]=显示桌面图标
 Comment=Classic session desktop file for desktop icons
+Comment[zh_CN]=以传统方式将桌面图标显示在桌面上
 Exec=nautilus --no-default-window --force-desktop
 OnlyShowIn=GNOME;
 NoDisplay=true

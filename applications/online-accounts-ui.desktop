@@ -2,7 +2,9 @@
 Encoding=UTF-8
 Version=1.0
 Name=Online Accounts
+Name[zh_CN]=在线账户
 Comment=Create and edit Online Accounts
+Comment[zh_CN]=创建和编辑在线账户
 Exec=/usr/bin/online-accounts-ui
 Icon=
 Type=Application

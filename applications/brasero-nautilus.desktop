@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=CD/DVD Creator
+Name[zh_CN]=CD/DVD 制作工具
 Comment=Create CDs and DVDs
+Comment[zh_CN]=创建 CD 和 DVD
 Categories=GNOME;GTK;System;
 TryExec=nautilus
 Exec=nautilus --no-default-window --no-desktop burn:/// 

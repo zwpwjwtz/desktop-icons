@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=AisleRiot Solitaire
+Name[zh_CN]=纸牌王
 Comment=Play many different solitaire games
+Comment[zh_CN]=体验不同的接龙游戏
 Exec=/usr/games/sol
 Icon=gnome-aisleriot
 Terminal=false

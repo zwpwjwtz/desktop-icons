@@ -3,8 +3,11 @@ Version=1.0
 X-Ubuntu-Gettext-Domain=activity-log-manager
 
 Name=Activity Log Manager
+Name[zh_CN]=活动日志管理器
 GenericName=Activity Log Manager
+Name[zh_CN]=活动日志管理器
 Comment=Configure what gets logged in your Zeitgeist activity log
+Comment[zh_CN]=配置 Zeitgeist 日志中需要记录的活动
 X-Ubuntu-Software-Center-Name=Activities and Privacy Manager Tool
 
 

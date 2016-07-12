@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=Startup Disk Creator
+Name[zh_CN]=创建启动盘
 GenericName=Startup Disk Creator
+GenericName[zh_CN]=创建起动盘
 Comment=Create a startup disk using a CD or disc image
+Comment[zh_CN]=使用 CD 或磁盘镜像创建启动盘
 Exec=usb-creator-gtk
 Icon=usb-creator-gtk
 Terminal=false

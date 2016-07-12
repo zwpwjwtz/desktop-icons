@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Report a problem...
+Name[zh_CN]=报告问题...
 Comment=Report a malfunction to the developers
+Comment[zh_CN]=向开发者反馈软件缺陷
 Exec=/usr/share/apport/apport-gtk -c %f
 Icon=apport
 Terminal=false

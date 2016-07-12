@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Home Folder
+Name[zh_CN]=主目录
 Comment=Open your personal folder
+Comment[zh_CN]=打开主目录
 Exec=nautilus --new-window %U
 Icon=folder
 Terminal=false

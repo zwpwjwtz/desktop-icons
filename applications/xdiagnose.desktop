@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=xdiagnose
+Name[zh_CN]=X 诊断工具
 GenericName=Diagnose Graphics Issues
+GenericName[zh_CN]=诊断显示问题
 Comment=X.org Diagnostic and Repair Utility
+Comment[zh_CN]=用于诊断和修复 X.org 服务的工具
 Exec=pkexec xdiagnose
 Icon=/usr/share/xdiagnose/icons/microscope.svg
 Terminal=false

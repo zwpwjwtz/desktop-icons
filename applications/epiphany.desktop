@@ -1,8 +1,11 @@
 [Desktop Entry]
 Name=Web
+Name[zh_CN]=Epiphany 浏览器
 GenericName=Web Browser
+GenericName[zh_CN]=网络浏览器
 X-GNOME-FullName=Epiphany Web Browser
 Comment=Browse the web
+Comment[zh_CN]=浏览网络
 Keywords=web;browser;internet;
 Exec=epiphany %U
 StartupNotify=true

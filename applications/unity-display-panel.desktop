@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Displays
+Name[zh_CN]=显示
 Comment=Change resolution and position of monitors and projectors
+Comment[zh_CN]=改变监视器和投影仪的分辨率和位置
 Exec=unity-control-center display
 Icon=unity-display-panel
 Terminal=false

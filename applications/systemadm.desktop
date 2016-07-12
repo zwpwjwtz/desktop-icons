@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=systemadm
+Name[zh_CN]=系统服务
 Comment=Manage Systemd Units
+Comment[zh_CN]=配置系统单元
 Exec=systemadm
 Icon=applications-system
 Terminal=false

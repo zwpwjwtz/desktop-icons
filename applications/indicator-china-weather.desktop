@@ -4,6 +4,7 @@ Name[zh_CN]=优客天气
 Comment=Indicator applet for current weather conditions in China
 Comment[zh_CN]=中国实时天气
 GenericName=China Weather Applet
+GenericName[zh_CN]=显示中国天气的小程序
 Exec=/usr/bin/indicator-china-weather %u
 Icon=indicator-china-weather
 StartupNotify=true

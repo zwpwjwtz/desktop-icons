@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Mouse & Touchpad
+Name[zh_CN]=鼠标和触摸板
 Comment=Set your mouse and touchpad preferences
+Comment[zh_CN]=设置鼠标和触摸板首选项
 Exec=unity-control-center mouse
 Icon=input-mouse
 Terminal=false

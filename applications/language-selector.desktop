@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Language Support
+Name[zh_CN]=语言支持
 Comment=Configure multiple and native language support on your system
+Comment[zh_CN]=配置本地和多语言支持
 Exec=/usr/bin/gnome-language-selector
 Icon=preferences-desktop-locale
 Terminal=false

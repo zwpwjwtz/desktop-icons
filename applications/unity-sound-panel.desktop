@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Sound
+Name[zh_CN]=声音
 Comment=Change sound volume and sound events
+Comment[zh_CN]=修改音量和声音事件
 Exec=unity-control-center sound
 Icon=unity-sound-panel
 Terminal=false

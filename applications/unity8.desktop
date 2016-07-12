@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Unity 8
+Name[zh_CN]=Unity 8
 Comment=The converged Unity shell
+Comment[zh_CN]=集成的 Unity Shell
 Exec=/usr/bin/unity8
 Terminal=false
 Icon=

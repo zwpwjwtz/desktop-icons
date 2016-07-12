@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Appearance
+Name[zh_CN]=外观
 Comment=Change the background and the theme
+Comment[zh_CN]=修改壁纸和主题
 Exec=unity-control-center appearance
 Icon=preferences-desktop-wallpaper
 Terminal=false

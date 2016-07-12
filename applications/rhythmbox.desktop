@@ -1,8 +1,11 @@
 [Desktop Entry]
 Name=Rhythmbox
+Name[zh_CN]=Rhythmbox 播放器
 GenericName=Music Player
+GenericName[zh_CN]=音乐播放器
 X-GNOME-FullName=Rhythmbox Music Player
 Comment=Play and organize your music collection
+Comment[zh_CN]=播放和管理您的音乐
 Keywords=Audio;Song;MP3;CD;Podcast;MTP;iPod;Playlist;Last.fm;UPnP;DLNA;Radio;
 Exec=rhythmbox %U
 Terminal=false

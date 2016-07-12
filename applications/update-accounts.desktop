@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Account update tool
+Name[zh_CN]=账户更新工具
 Exec=/usr/lib/i386-linux-gnu/update-accounts
 NoDisplay=true
 Type=Application

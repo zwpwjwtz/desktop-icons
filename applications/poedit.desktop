@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Poedit
+Name[zh_CN]=Poedit
 GenericName=Gettext catalogs editor
 GenericName[ca]=Editor de catàlegs del Gettext
 GenericName[de]=Katalogeditor für Gettext
@@ -15,6 +16,7 @@ GenericName[ky]=Gettext каталогдор редактору
 GenericName[kk]=Gettext каталогтар түзетушісі
 GenericName[cs]=Editor katalogů Gettext
 GenericName[vi]=Phần mềm sửa bản dịch Gettext
+GenericName[zh_CN]=Gettext 编录编辑器
 MimeType=application/x-po;application/x-gettext;text/x-gettext-translation;text/x-po;application/x-gettext-translation;text/x-gettext-translation-template;
 Exec=poeditor %F
 Icon=poedit

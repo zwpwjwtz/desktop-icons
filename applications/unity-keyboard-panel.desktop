@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Keyboard
+Name[zh_CN]=键盘
 Comment=Change keyboard settings
+Comment[zh_CN]=改变键盘设置
 Exec=unity-control-center keyboard
 Icon=input-keyboard
 Terminal=false

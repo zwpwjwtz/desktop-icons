@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Brightness & Lock
+Name[zh_CN]=亮度和锁屏
 Comment=Screen brightness and lock settings
+Comment[zh_CN]=设置屏幕亮度和锁屏
 Exec=unity-control-center screen
 Icon=system-lock-screen
 Terminal=false

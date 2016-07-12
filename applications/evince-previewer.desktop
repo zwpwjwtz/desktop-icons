@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Print Preview
+Name[zh_CN]=打印预览
 Comment=Preview before printing
+Comment[zh_CN]=在打印前进行预览
 TryExec=evince-previewer
 Exec=evince-previewer %U
 StartupNotify=true

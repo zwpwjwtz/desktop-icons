@@ -2,7 +2,9 @@
 Version=1.0
 Type=Application
 Name=R
+Name[zh_CN]=R 语言
 Comment=R software environment for statistical computing and graphics
+Comment[zh_CN]=R 语言环境，用于统计计算和图形处理
 Exec=R
 Icon=rlogo_icon
 Terminal=true

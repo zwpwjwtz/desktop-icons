@@ -33,8 +33,10 @@
 
 [Desktop Entry]
 Name=UXTerm
+Name[zh_CN]=UXTerm 终端
 #GenericName=Terminal
 Comment=standard terminal emulator for the X window system
+Comment[zh_CN]=X 窗口系统的标准终端模拟器
 Exec=uxterm
 Terminal=false
 Type=Application

@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Shotwell Viewer
+Name[zh_CN]=Shotwell 看图
 GenericName=Photo Viewer
+GenericName[zh_CN]=图片查看器
 Exec=shotwell %f
 Icon=shotwell
 Terminal=false

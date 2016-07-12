@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=Onboard Settings
+Name[zh_CN]=屏幕键盘设置
 GenericName=Onboard onscreen keyboard settings
+GenericName[zh_CN]=设置屏幕键盘
 Comment=Change Onboard settings
+Comment[zh_CN]=修改屏幕（虚拟）键盘设置
 Exec=onboard-settings
 Terminal=false
 Type=Application

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Personal File Sharing
+Name[zh_CN]=分享个人文件
 Comment=Preferences for sharing of files
+Comment[zh_CN]=文件分享的首选项
 Exec=gnome-file-share-properties
 Icon=folder-remote
 StartupNotify=true

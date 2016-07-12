@@ -1,7 +1,10 @@
 [Desktop Entry]
 Name=Onboard
+Name[zh_CN]=屏幕键盘
 GenericName=Onboard onscreen keyboard
+GenericName[zh_CN]=屏幕键盘
 Comment=Flexible onscreen keyboard for GNOME
+Comment[zh_CN]=GNOME 的虚拟屏幕键盘
 Exec=onboard
 Terminal=false
 Type=Application

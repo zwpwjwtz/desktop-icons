@@ -1,7 +1,9 @@
 [Desktop Entry]
 Version=1.0
 Name=Time & Date
+Name[zh_CN]=时间与日期
 Comment=Change your clock and date settings
+Comment[zh_CN]=修改时间和日期设置
 Icon=unity-datetime-panel
 TryExec=unity-control-center
 Exec=unity-control-center datetime

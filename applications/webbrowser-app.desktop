@@ -1,8 +1,11 @@
 [Desktop Entry]
 Version=1.0
 Name=Browser
+Name[zh_CN]=浏览器
 GenericName=Web Browser
+GenericName[zh_CN]=网络浏览器
 Comment=Browse the World Wide Web
+Comment[zh_CN]=浏览互联网
 Keywords=Internet;WWW;Browser;Web;Explorer
 Type=Application
 Icon=/usr/share/webbrowser-app/webbrowser-app.png

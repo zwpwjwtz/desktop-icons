@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Content Hub Send
+Name[zh_CN]=内容发送中心
 Comment=Content Hub Send
+Comment[zh_CN]=内容发送中心
 Exec=content-hub-send %U
 Icon=
 Terminal=false

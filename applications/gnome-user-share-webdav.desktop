@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Personal File Sharing
+Name[zh_CN]=分享个人文件
 Comment=Launch Personal File Sharing if enabled
+Comment[zh_CN]=启动个人文件分享（如果该功能已启用）
 Keywords=share;files;bluetooth;obex;http;network;copy;send;
 AutostartCondition=GSETTINGS org.gnome.desktop.file-sharing enabled
 Icon=folder-remote

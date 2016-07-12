@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Text Entry
+Name[zh_CN]=文字输入
 Comment=Change your keyboard or input method settings
+Comment[zh_CN]=配置键盘或输入法
 Exec=unity-control-center region
 Icon=preferences-desktop-keyboard-shortcuts
 Terminal=false

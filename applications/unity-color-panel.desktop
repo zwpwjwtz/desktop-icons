@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Color
+Name[zh_CN]=色彩
 Comment=Color management settings
+Comment[zh_CN]=色彩配置
 Exec=unity-control-center color
 Icon=unity-color-panel
 Terminal=false

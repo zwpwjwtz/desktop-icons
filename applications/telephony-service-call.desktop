@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Phone Calls
+Name[zh_CN]=电话呼叫
 Exec=telephony-service-indicator
 Icon=telephony-service-call
 NoDisplay=true

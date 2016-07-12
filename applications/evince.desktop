@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Document Viewer
+Name[zh_CN]=文档查看器
 Comment=View multi-page documents
+Comment[zh_CN]=查看多页文档
 Keywords=pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;
 TryExec=evince
 Exec=evince %U

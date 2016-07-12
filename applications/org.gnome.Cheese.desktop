@@ -1,8 +1,11 @@
 [Desktop Entry]
 Name=Cheese
+Name[zh_CN]=茄子大头贴
 GenericName=Webcam Booth
+GenericName[zh_CN]=摄像头
 X-GNOME-FullName=Cheese Webcam Booth
 Comment=Take photos and videos with your webcam, with fun graphical effects
+Comment[zh_CN]=用摄像头拍摄照片和视频，并应用有趣的特效
 Keywords=photo;video;webcam;
 Exec=cheese
 Terminal=false

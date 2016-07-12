@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Wacom Tablet
+Name[zh_CN]=手写板
 Comment=Set button mappings and adjust stylus sensitivity for graphics tablets
+Comment[zh_CN]=设置手写板的按钮映射、调整触控灵敏度
 Exec=unity-control-center wacom
 Icon=input-tablet
 Terminal=false

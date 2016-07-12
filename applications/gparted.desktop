@@ -1,8 +1,11 @@
 [Desktop Entry]
 Name=GParted
+Name[zh_CN]=Gparted 分区
 GenericName=Partition Editor
+GenericName[zh_CN]=分区编辑器
 X-GNOME-FullName=GParted Partition Editor
 Comment=Create, reorganize, and delete partitions
+Comment[zh_CN]=创建、调整和删除分区
 Exec=gparted-pkexec
 Icon=gparted
 Terminal=false

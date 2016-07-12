@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Power
+Name[zh_CN]=电源
 Comment=Power management settings
+Comment[zh_CN]=电源管理设置
 Exec=unity-control-center power
 Icon=unity-power-panel
 Terminal=false

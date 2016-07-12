@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Application
 Name=Compiz
+Name[zh_CN]=Compiz 合成器
 Exec=compiz
 NoDisplay=true
 # name of loadable control center module

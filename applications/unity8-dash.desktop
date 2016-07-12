@@ -1,7 +1,9 @@
 [Desktop Entry]
 Type=Application
 Name=Scopes
+Name[zh_CN]=Scopes
 Comment=An interface for using the Scopes system
+Comment[zh_CN]=用于 Unity 图形化界面的接口
 Exec=/usr/bin/unity8-dash
 Terminal=false
 Icon=/usr/share/unity8/Dash/unity8-dash.png

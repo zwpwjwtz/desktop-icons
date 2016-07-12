@@ -7,5 +7,7 @@ Type=Application
 NotShownIn=GNOME;Unity;KDE;
 Categories=X-XFCE;GTK;Settings;HardwareSettings
 Name=Additional Drivers
+Name[zh_CN]=附加驱动
 Comment=Configure third-party and proprietary drivers
+Comment[zh_CN]=配置第三方和私有驱动程序
 X-Ubuntu-Gettext-Domain=software-properties

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=Mines
+Name[zh_CN]=扫雷
 Comment=Clear hidden mines from a minefield
+Comment[zh_CN]=清除雷场中埋藏的地雷
 Exec=gnome-mines
 Icon=gnome-mines
 Terminal=false

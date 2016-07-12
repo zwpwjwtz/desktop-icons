@@ -3,6 +3,7 @@ Version=1.0
 X-Ubuntu-Gettext-Domain=deja-dup
 
 Name=Backups
+Name[zh_CN]=备份
 
 X-Ubuntu-Software-Center-Name=Déjà Dup Backup Tool
 X-Ubuntu-Software-Center-Name[ar]=أداة النسخ الاحتياطي «ديجا دوب»

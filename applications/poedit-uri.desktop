@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=Poedit
+Name[zh_CN]=Poedit
 Type=Application
 Terminal=false
 NoDisplay=true

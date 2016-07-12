@@ -1,5 +1,6 @@
 [Desktop Entry]
 Name=System Settings
+Name[zh_CN]=系统设置
 Icon=preferences-system
 Exec=unity-control-center --overview
 Terminal=false

@@ -1,6 +1,8 @@
 [Desktop Entry]
 Name=dconf Editor
+Name[zh_CN]=dconf 编辑器
 Comment=Directly edit your entire configuration database
+Comment[zh_CN]=修改系统的配置数据库
 Keywords=settings;configuration;
 Exec=dconf-editor
 Terminal=false

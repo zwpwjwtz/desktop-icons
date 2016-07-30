@@ -14,3 +14,4 @@ Categories=Graphics;Viewer;Photography;GNOME;GTK;
 X-GIO-NoFuse=true
 X-GNOME-Gettext-Domain=shotwell
 X-GNOME-FullName=Shotwell Photo Viewer
+X-GNOME-FullName[zh_CN]=Shotwell 图片查看器
